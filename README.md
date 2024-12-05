@@ -1,2 +1,1 @@
-# full-stack-java-mysql-reactjs
-full stack application with java reactjs mysql
+# web application for love journey dating application
